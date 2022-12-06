@@ -35,7 +35,7 @@ Each statistics term is updated once every 15 scenarios.
 <p>Model — Represents the business layer of the application</p>
 <p>View — Defines the presentation of the application</p>
 <p>Controller — Manages the flow of the application</p></div>
-In order to implement MVC in my laboratory work, I separated my already existed classes into <code>Model</code>, <code>View</code> and <code>Controller</code>. All the data which is related to data, Business logic and calculations is seted in <code>Model</code>. <code>View</code> is responsable for UI in general and Hotel statistics in my case. <code>Controller</code> helps me to manage flow of my simulation. </div>
+In order to implement MVC in my laboratory work, I separated my already existed classes into <code>Model</code>, <code>View</code> and <code>Controller</code>. All the data which is related to data, Business logic and calculations is seted in <code>Model</code>. <code>View</code> is responsable for UI in general and Trip statistics. <code>Controller</code> helps me to manage flow of my simulation. </div>
 <hr>
 <b>SOLID Principles</b>
 <br>
