@@ -24,5 +24,25 @@ Number of taxis requested
 </ol>
 <br>
 Each statistics term is updated once every 15 scenarios.
+<br>
+<hr>
+<b>MVC</b>
+<br>
+<p>Model designs based on MVC architecture follow the MVC design pattern and they separate the application logic from the user interface when designing software. As the name implies MVC pattern has three layers, which are:
+</p>
 
+<div>
+<p>Model — Represents the business layer of the application</p>
+<p>View — Defines the presentation of the application</p>
+<p>Controller — Manages the flow of the application</p></div>
+In order to implement MVC in my laboratory work, I separated my already existed classes into <code>Model</code>, <code>View</code> and <code>Controller</code>. All the data which is related to data, Business logic and calculations is seted in <code>Model</code>. <code>View</code> is responsable for UI in general and Hotel statistics in my case. <code>Controller</code> helps me to manage flow of my simulation. </div>
+<hr>
+<b>SOLID Principles</b>
+<br>
+<div>
+<p>S - Single-responsiblity Principle</p>
+<p>O - Open-closed Principle</p>
+<p>L - Liskov Substitution Principle</p>
+<p>I - Interface Segregation Principle</p>
+<p>D - Dependency Inversion Principle</p></div>
 
